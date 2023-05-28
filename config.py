@@ -1,5 +1,5 @@
 bot_config = {
-    'token': 'MTExMjQwODY2MjQ3MjkzNzU4NA.GY5j4p.37EQYP48Is8Qoz9P1Ci3mXjWqeZLe4NeBMDLR8',
+    'token': 'MTExMTM2MTgwOTAxNDg2NTk3Mw.GBodgb.XgHk99PTqDshXIgzan7X2v4K4DjnVnU_0ZDnxY',
 }
 
 channels_config = {
