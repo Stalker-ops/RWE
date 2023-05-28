@@ -1,0 +1,13 @@
+bot_config = {
+    'token': 'MTExMjQwODY2MjQ3MjkzNzU4NA.Gmsh2s.XAWigwyLMcG1aCKhAN6rL_7LcLj8lW9Z65M7rY',
+}
+
+channels_config = {
+'moder': 1112407224069918831,
+'supp': 1112407224069918831,
+'tribun': 1112407224069918831,
+'events': 1112407224069918831,
+'close': 1112407224069918831,
+'creativ': 1112407224069918831,
+'media': 1112407224069918831
+}
